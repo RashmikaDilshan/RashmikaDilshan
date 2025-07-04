@@ -1,7 +1,7 @@
 <hr>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=5000&center=true&vCenter=true&random=false&width=1000&lines=Hi%F0%9F%91%8B,+I+am+Rashmika+Dilshan+Viduranga" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=4000&center=true&vCenter=true&random=false&width=1000&lines=Hi%F0%9F%91%8B,+I+am+Rashmika+Dilshan+Viduranga" alt="Typing SVG" />
 </a>
 
 <hr>
