@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="center">Aspiring Software Engineer | UI/UX Designer | Passionate Flutter Developer </h3>
+<h3 align="center">Aspiring Software Developer | UI/UX Designer | Passionate Flutter Developer </h3>
 
 </br>
 
