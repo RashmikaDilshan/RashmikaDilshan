@@ -26,7 +26,7 @@ When I'm not coding, I love exploring the latest UI trends, contributing to open
 
 <hr>
 
-### Connect with me:
+### 🌐 Connect with me:
 
 [![TwitterX Card](https://img.icons8.com/color/50/000000/twitterx.png)](https://X.com/dilshanrdv)
 [![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/rashmikadilshan)
@@ -34,7 +34,7 @@ When I'm not coding, I love exploring the latest UI trends, contributing to open
 
 <hr>
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 </br>
 
@@ -45,12 +45,10 @@ When I'm not coding, I love exploring the latest UI trends, contributing to open
   </a>
 </p>
 
-### 🏆 GitHub Trophies
+<hr>
+
+### 🏆 GitHub Trophies:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RashmikaDilshan&theme=flat&row=1&column=5" alt="GitHub Trophies" />
 </div>
-
-
-
-
