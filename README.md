@@ -45,6 +45,12 @@ When I'm not coding, I love exploring the latest UI trends, contributing to open
   </a>
 </p>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RashmikaDilshan&theme=flat&row=1&column=5" alt="GitHub Trophies" />
+</div>
+
 
 
 
