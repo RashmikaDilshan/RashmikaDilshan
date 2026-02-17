@@ -43,4 +43,4 @@ When I'm not coding, I love exploring the latest UI trends, contributing to open
     <img src="https://skillicons.dev/icons?i=java,js,python,dotnet,mysql,c,firebase,postgresql,linux,bash,docker,kubernetes,git,github,vscode,postman&theme=dark&perline=8&align=center"
       />
   </a>
-</p>`
+</p>
