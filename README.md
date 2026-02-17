@@ -6,21 +6,21 @@
 
 <hr>
 
-<h3 align="center">Aspiring Software Developer | UI/UX Designer | Passionate Flutter Developer </h3>
+<h3 align="center">Backend Developer | Computer Science Undergraduate | Linux Enthusiast</h3>
 
 </br>
 
-I'm currently on an exciting journey to master mobile application development using the Flutter framework. With a strong focus on creating intuitive, responsive, and visually appealing interfaces, I'm dedicated to crafting seamless user experiences. My curiosity for clean code, modern design principles, and cross-platform development drives me to continuously learn and innovate.
+I'm currently on an exciting journey to master server-side development and system architecture. With a strong focus on building scalable RESTful APIs, optimizing database queries, and implementing secure authentication (JWT), I'm dedicated to crafting robust backend solutions. My curiosity for clean code, Linux environments, and database design drives me to continuously learn and innovate.
 
 When I'm not coding, I love exploring the latest UI trends, contributing to open-source projects
 
 </br>
 
-- 🔭 I’m a student working towards a Bachelor of Science focused in **Computer Science** from **NSBM Green University**
+- 🔭 I’m a student working towards a Bachelor of Science focused in Computer Science.
 
-- 👀 I’m interested in **Mobile Application Development**
+- 👀 I’m interested in **Backend Development**, **API Design**, and **Cloud Infrastructure**.
   
-- 🌱 I’m currently learning **•Flutter • Dart • Firebase • State Management**
+- 🌱 I’m currently honing my skills in **Java**, **Python**, **SQL/NoSQL Databases**, and **Bash Scripting**.
 
 - 📫 How to reach me **dilshanrdv+github@gmail.com**
 
@@ -40,15 +40,7 @@ When I'm not coding, I love exploring the latest UI trends, contributing to open
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,figma,git,github,java,py,c,dotnet,azure,mysql,firebase,idea,androidstudio,vscode,visualstudio,postman,linux&theme=dark&perline=11&align=center"
+    <img src="https://skillicons.dev/icons?i=java,js,python,dotnet,mysql,c,firebase,postgresql,linux,bash,docker,kubernetes,git,github,vscode,postman&theme=dark&perline=8&align=center"
       />
   </a>
-</p>
-
-<hr>
-
-### 🏆 GitHub Trophies:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RashmikaDilshan&theme=flat&row=1&column=5" alt="GitHub Trophies" />
-</div>
+</p>`
